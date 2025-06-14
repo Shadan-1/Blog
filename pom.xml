@@ -3,4 +3,14 @@
   <groupId>in.shadan</groupId>
   <artifactId>Maven-App</artifactId>
   <version>0.0.2-SNAPSHOT</version>
+  <dependencies>
+  
+<dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-core</artifactId>
+    <version>7.0.0-M6</version>
+</dependency>
+  
+  
+  </dependencies>
 </project>
